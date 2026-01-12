@@ -1,0 +1,20 @@
+{
+  "name": "backend_postaman",
+  "version": "1.0.0",
+  "description": "about backend intigration ",
+  "license": "ISC",
+  "author": "ranjith",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.5",
+    "encrypt": "^0.0.1",
+    "express": "^5.2.1",
+    "mysql2": "^3.16.0"
+  }
+}
